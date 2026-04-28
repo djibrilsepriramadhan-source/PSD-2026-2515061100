@@ -88,7 +88,9 @@ Source Code :
 
 
 Output : Tampilan Menu
-[MASUKKAN SCREENSHOT TERMINAL SAAT PROGRAM BARU DI-RUN DAN MENAMPILKAN MENU]
+<img width="302" height="89" alt="image" src="https://github.com/user-attachments/assets/a47e6577-eb64-4d77-adc4-94765a3d4d62" />
+
+
 
 Menu 1 (Input Data)
 Pilih menu : 1
