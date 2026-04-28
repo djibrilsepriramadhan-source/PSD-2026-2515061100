@@ -91,26 +91,29 @@ Output : Tampilan Menu
 <img width="302" height="89" alt="image" src="https://github.com/user-attachments/assets/a47e6577-eb64-4d77-adc4-94765a3d4d62" />
 
 
-
 Menu 1 (Input Data)
 Pilih menu : 1
-Judul Buku: Petualangan Ninu
-Penulis: Cheisya Aqila Deani
-Buku 'Petualangan Ninu' berhasil ditambahkan.
+Judul Buku: Petualangan don quixote
+Penulis: Miguel
+Buku 'Petualangan don quixote' berhasil ditambahkan.
 
-[MASUKKAN SCREENSHOT SAAT KAMU MENGINPUTKAN DATA DI MENU 1]
+<img width="482" height="92" alt="image" src="https://github.com/user-attachments/assets/f0726ff2-4c18-4b3b-9d07-aa3148c1ddc4" />
+
 
 Menu 3 (Lihat Daftar Bacaan)
-[MASUKKAN SCREENSHOT SAAT KAMU MEMILIH MENU 3 DAN DAFTAR BACAANNYA MUNCUL]
+<img width="550" height="142" alt="image" src="https://github.com/user-attachments/assets/8a0265ca-6a86-4b42-9108-ec0144d0417a" />
+
 
 Menu 2 (Hapus Buku)
 Pilih menu : 2
-Masukkan Judul yang dihapus: Petualangan Ninu
-Buku 'Petualangan Ninu' telah dihapus.
+Masukkan Judul yang dihapus: bumi manusia
+Buku 'bumi manusia' telah dihapus.
 
-[MASUKKAN SCREENSHOT SAAT KAMU MENGHAPUS BUKU DI MENU 2]
+<img width="414" height="75" alt="image" src="https://github.com/user-attachments/assets/38dcf9c8-3255-4afb-be59-e8d2f6c57950" />
+
 
 Menu 0 (Keluar)
-[MASUKKAN SCREENSHOT SAAT KAMU KETIK 0 DAN PROGRAM MUNCUL TULISAN "Program ditutup. See you next time!"]
+<img width="169" height="41" alt="image" src="https://github.com/user-attachments/assets/a1bf1d2b-5033-4d2c-87dc-4a9cf0768d9a" />
+
 
 Link : https://youtu.be/[MASUKKAN LINK YOUTUBEMU DI SINI]
