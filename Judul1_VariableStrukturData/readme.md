@@ -6,7 +6,8 @@ Program ini berfungsi sebagai sistem manajemen data yang dirancang untuk memudah
 
 Source Code :
 
-[MASUKKAN SCREENSHOT FULL KODINGAN PYTHON KAMU DI SINI]
+<img width="695" height="982" alt="image" src="https://github.com/user-attachments/assets/de4394a6-93f9-45c5-8def-5a8bb407d579" />
+
 
 1. Mndefinisikan class bernama Node sebagai cetak biru untuk membuat simpul data
 2. Mndefinisikan fungsi inisialisasi (__init__) untuk class Node dengan parameter judul dan penulis
