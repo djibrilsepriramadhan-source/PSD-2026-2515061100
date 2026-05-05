@@ -5,8 +5,8 @@ Judul Program : Sistem Pengurutan Harga Barang Minimarket (Sorting)
 Program ini adalah aplikasi Command Line Interface (CLI) yang berfungsi untuk memasukkan dan mengurutkan data harga barang. Dalam sistem kasir atau inventaris, kemampuan mengurutkan harga sangat krusial untuk fitur seperti "filter termurah" atau "filter termahal". Program ini mendemonstrasikan dua algoritma pengurutan (sorting) yang berbeda. Pertama, Insertion Sort digunakan untuk mengurutkan harga secara Ascending (termurah ke termahal) dengan cara menyisipkan elemen ke posisi yang tepat pada bagian array yang sudah terurut. Kedua, Exchange Sort digunakan untuk mengurutkan harga secara Descending (termahal ke termurah) dengan cara menjadikan satu elemen sebagai pivot dan membandingkannya langsung dengan seluruh elemen sisa, lalu menukarnya jika ditemukan nilai yang lebih besar.
 
 Source Code :
+<img width="4028" height="4972" alt="Snippet" src="https://github.com/user-attachments/assets/1adc6439-7fdf-4887-8232-87416ed15914" />
 
-[MASUKKAN SCREENSHOT FULL KODINGAN PYTHON KAMU DI SINI]
 
 1. Mendefinisikan fungsi insertion_sort_asc untuk mengurutkan harga dari kecil ke besar.
 2. Menyimpan jumlah elemen array ke dalam variabel n.
@@ -60,7 +60,7 @@ Source Code :
 Output :
 
 Menu 1 (Input Harga)
---- SISTEM PENGURUTAN HARGA BARANG ---
+ SISTEM PENGURUTAN HARGA BARANG
 1. Input Harga
 2. Urutkan Termurah (Asc)
 3. Urutkan Termahal (Desc)
@@ -73,21 +73,25 @@ Harga barang ke-3: Rp 25000
 Harga barang ke-4: Rp 12000
 Harga barang ke-5: Rp 8000
 
-[MASUKKAN SCREENSHOT SAAT KAMU MENGINPUTKAN DATA DI MENU 1]
+<img width="264" height="154" alt="image" src="https://github.com/user-attachments/assets/ce263f8e-f72a-4b1d-98cb-04980f4b1f8e" />
+
 
 Menu 2 (Urutkan Termurah - Insertion Sort)
 Pilih menu: 2
 Harga Termurah -> Termahal: [5000, 8000, 12000, 15000, 25000]
 
-[MASUKKAN SCREENSHOT SAAT KAMU MEMILIH MENU 2]
+<img width="566" height="50" alt="image" src="https://github.com/user-attachments/assets/74fd0c6f-7d19-43c0-9ef8-bb9462a860e9" />
+
 
 Menu 3 (Urutkan Termahal - Exchange Sort)
 Pilih menu: 3
 Harga Termahal -> Termurah: [25000, 15000, 12000, 8000, 5000]
 
-[MASUKKAN SCREENSHOT SAAT KAMU MEMILIH MENU 3]
+<img width="558" height="43" alt="image" src="https://github.com/user-attachments/assets/342a2a41-e803-40c4-8b38-f78717de0254" />
+
 
 Menu 0 (Keluar)
-[MASUKKAN SCREENSHOT SAAT KAMU KETIK 0]
+<img width="276" height="39" alt="image" src="https://github.com/user-attachments/assets/c5cd7eb0-3994-4f00-b8e3-21ebdb9e6fa7" />
+
 
 Link : https://youtu.be/[MASUKKAN LINK YOUTUBEMU DI SINI]
