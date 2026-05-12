@@ -115,4 +115,4 @@ Menu 0 (Keluar)
 <img width="353" height="193" alt="image" src="https://github.com/user-attachments/assets/4bf21788-980b-4115-a5a2-db92ea7efb18" />
 
 
-Link : https://youtu.be/[MASUKKAN LINK YOUTUBEMU DI SINI]
+Link : [https://youtu.be/[MASUKKAN LINK YOUTUBEMU DI SINI]](https://youtu.be/4wQqVYaMomw)
