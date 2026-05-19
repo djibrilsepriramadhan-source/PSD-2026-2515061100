@@ -4,7 +4,7 @@ Judul Program : Sistem Layanan Pelanggan (Implementasi Stack dan Queue)
 
 [cite_start]Program ini adalah aplikasi Command Line Interface (CLI) yang mendemonstrasikan penggunaan dua struktur data linier secara bersamaan, yaitu Queue (Antrean) dan Stack (Tumpukan)[cite: 1201, 1249]. Program ini menyimulasikan sistem pada loket layanan pelanggan (Customer Service). 
 
-[cite_start]Konsep Queue diterapkan pada fitur "Tambah Antrean", di mana data pelanggan dimasukkan ke posisi belakang (Enqueue) dan dipanggil dari posisi paling depan (Dequeue) menggunakan prinsip First In First Out (FIFO)[cite: 1254, 1264, 1266]. Sementara itu, konsep Stack diterapkan pada "Riwayat Panggilan". Setiap kali seorang pelanggan selesai dipanggil dari antrean, data mereka akan di-Push ke dalam Stack riwayat. [cite_start]Dengan menggunakan prinsip Last In First Out (LIFO), sistem dapat menampilkan daftar pelanggan yang baru saja dilayani, di mana pelanggan terakhir akan berada di posisi paling atas (Top) pada tampilan riwayat[cite: 1201, 1208].
+[cite_start]Konsep Queue diterapkan pada fitur "Tambah Antrean", di mana data pelanggan dimasukkan ke posisi belakang (Enqueue) dan dipanggil dari posisi paling depan (Dequeue) menggunakan prinsip First In First Out (FIFO). Sementara itu, konsep Stack diterapkan pada "Riwayat Panggilan". Setiap kali seorang pelanggan selesai dipanggil dari antrean, data mereka akan di-Push ke dalam Stack riwayat. [cite_start]Dengan menggunakan prinsip Last In First Out (LIFO), sistem dapat menampilkan daftar pelanggan yang baru saja dilayani, di mana pelanggan terakhir akan berada di posisi paling atas (Top) pada tampilan riwayat.
 
 Source Code :
 
