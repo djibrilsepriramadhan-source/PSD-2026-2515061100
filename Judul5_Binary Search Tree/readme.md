@@ -8,7 +8,8 @@ Melalui implementasi ini, pencarian (Search) ID Produk dapat berjalan sangat efi
 
 Source Code :
 
-[MASUKKAN SCREENSHOT FULL KODINGAN PYTHON KAMU DI SINI]
+<img width="1634" height="3522" alt="5" src="https://github.com/user-attachments/assets/7c6dd52a-d641-49d5-8cd4-5b0698efea24" />
+
 
 1. Mendefinisikan class Node sebagai representasi simpul dalam pohon.
 2. Mendefinisikan fungsi inisialisasi (__init__) untuk setiap Node baru dengan parameter id_produk dan nama_produk.
@@ -106,7 +107,8 @@ Masukkan ID Produk (Angka): 10
 Masukkan Nama Produk: Laptop
 [Sukses] Produk 'Laptop' dengan ID 10 ditambahkan.
 
-[MASUKKAN SCREENSHOT SAAT KAMU MENGINPUTKAN BEBERAPA DATA ACAK DI MENU 1, misal masukkan ID: 105, 50, 200, 25]
+<img width="475" height="209" alt="image" src="https://github.com/user-attachments/assets/915e29f3-c197-4c21-b812-0c79c72ec2e3" />
+
 
 Menu 3 (Tampilkan Semua Urut - Inorder Traversal)
 Pilih menu (0-3): 3
@@ -116,16 +118,19 @@ ID: 27 | Nama: mouse
 ID: 30 | Nama: keyboard
 ID: 26 | Nama: Monitor
 
-[MASUKKAN SCREENSHOT SAAT MEMILIH MENU 3, BUKTIKAN BAHWA DATA MUNCUL TERURUT PADAHAL INPUTNYA ACAK]
+<img width="479" height="150" alt="image" src="https://github.com/user-attachments/assets/1fb73623-d260-465d-bc25-6454872109f2" />
+
 
 Menu 2 (Cari Produk - Search)
 Pilih menu (0-3): 2
-Masukkan ID Produk yang dicari: 50
-[Ditemukan] Produk ID 50 adalah 'mouse'.
+Masukkan ID Produk yang dicari: 27
+[Ditemukan] Produk ID 27 adalah 'mouse'.
 
-[MASUKKAN SCREENSHOT SAAT MENCARI DATA MENGGUNAKAN MENU 2]
+<img width="414" height="188" alt="image" src="https://github.com/user-attachments/assets/35f3fa28-f327-477d-bd50-fcd0a1d65952" />
+
 
 Menu 0 (Keluar)
-[MASUKKAN SCREENSHOT SAAT KETIK 0 LALU PROGRAM TERTUTUP]
+<img width="357" height="154" alt="image" src="https://github.com/user-attachments/assets/82ae35fd-0296-4cba-bc0b-56f9f74f4dc1" />
 
-Link : https://youtu.be/[MASUKKAN LINK YOUTUBEMU DI SINI]
+
+Link : https://youtu.be/GhVmIuT4M7I
