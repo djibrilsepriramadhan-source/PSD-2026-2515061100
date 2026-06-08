@@ -7,8 +7,8 @@ Judul Program : Sistem Buku Telepon Digital
 Untuk menangani masalah tabrakan (Collision) di mana dua nama berbeda mungkin menghasilkan indeks yang sama, program ini menggunakan metode Separate Chaining. [cite_start]Separate chaining adalah metode penanganan tabrakan dengan cara menempatkan struktur data tambahan, yaitu Linked List, di setiap slot tabel[cite: 2045, 2046]. Hal ini memungkinkan satu indeks menyimpan lebih dari satu kontak tanpa saling menimpa, sehingga efisiensi pencarian dengan kompleksitas O(1) tetap terjaga.
 
 Source Code :
+<img width="1432" height="4396" alt="code" src="https://github.com/user-attachments/assets/b8262b0c-fc26-4d1e-9912-ac54e5d85f44" />
 
-[MASUKKAN SCREENSHOT FULL KODINGAN PYTHON KAMU DI SINI]
 
 1. Mendefinisikan class Node untuk membuat cetak biru simpul Linked List.
 2. Mendefinisikan fungsi inisialisasi (__init__) dengan parameter nama dan nomor.
