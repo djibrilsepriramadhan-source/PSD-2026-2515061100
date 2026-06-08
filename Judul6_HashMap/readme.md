@@ -83,6 +83,8 @@ Source Code :
 70. Memeriksa apakah file dieksekusi sebagai main program lalu memanggil fungsi main().
 
 Output :
+<img width="339" height="221" alt="image" src="https://github.com/user-attachments/assets/738c5339-d7d2-4692-9644-d8386869ab0e" />
+
 
 Menu 1 (Tambah Kontak)
 === BUKU TELEPON (HASH MAP) ===
@@ -94,29 +96,33 @@ Menu 1 (Tambah Kontak)
 Pilih menu: 1
 Masukkan Nama: Cheisya
 Masukkan Nomor: 08123456
-Kontak 'Yaya' berhasil disimpan.
+Kontak 'Cheisya' berhasil disimpan.
 
-[MASUKKAN SCREENSHOT SAAT MENGINPUTKAN BEBERAPA KONTAK, misal: cheisya, Budi, andi, Siti]
+<img width="397" height="161" alt="image" src="https://github.com/user-attachments/assets/f25beb30-1b25-4b3a-b92f-a80deaef56cc" />
 
-Menu 4 (Lihat Semua Kontak - Separate Chaining)
+
+Menu 4 
 Pilih menu: 4
 --- ISI HASH MAP BUKU TELEPON ---
-Indeks 0: [Siti : 08555] -> None
-Indeks 1: None
-Indeks 2: [Andi : 08333] -> [Yaya : 08123456] -> None
-Indeks 3: [Budi : 08999] -> None
+Indeks 0: [Cheisya : 08123456] -> None
+Indeks 1: [siti : 08888] ->  None
+Indeks 2: None
+Indeks 3: [Budi : 082288] -> None
 Indeks 4: None
 
-[MASUKKAN SCREENSHOT MEMILIH MENU 4. BUKTIKAN ADA DUA NAMA DI DALAM SATU INDEKS UNTUK MENUNJUKKAN COLLISION / SEPARATE CHAINING]
+<img width="351" height="211" alt="image" src="https://github.com/user-attachments/assets/850e58bb-00ab-4d4f-aab8-b0b3fa6dce6e" />
+
 
 Menu 2 (Cari Kontak)
 Pilih menu: 2
 Nama yang dicari: cheisya
 Ditemukan! Nomor Yaya: 08123456
 
-[MASUKKAN SCREENSHOT MENCARI KONTAK DI MENU 2]
+<img width="304" height="215" alt="image" src="https://github.com/user-attachments/assets/6957fe75-01e8-45b2-8c17-bf2a249b84fa" />
+
 
 Menu 0 (Keluar)
-[MASUKKAN SCREENSHOT SAAT KETIK 0 LALU PROGRAM TERTUTUP]
+<img width="315" height="173" alt="image" src="https://github.com/user-attachments/assets/b203bd22-2ba0-49d7-ba43-e9ec4af0f676" />
+
 
 Link : https://youtu.be/[MASUKKAN LINK YOUTUBEMU DI SINI]
